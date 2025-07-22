@@ -73,6 +73,8 @@ dependencies = [
     "six==1.16.0",
     "stack-data==0.6.3",
     "tornado==6.4.2",
+    "scikit-image",
+    "matplotlib",
     "traitlets==5.14.3",
     "pyyaml",
     "typeguard==4.4.1",
