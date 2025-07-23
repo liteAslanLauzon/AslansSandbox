@@ -173,7 +173,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--dir",
         type=str,
-        default="Projects\\SacDropV3\\ccgOverviewPhotos",
+        default="Projects\\SacDropV3\\photosv3",
         help="Image directory",
     )
     parser.add_argument("--debug", action="store_true", help="Show debug windows")
