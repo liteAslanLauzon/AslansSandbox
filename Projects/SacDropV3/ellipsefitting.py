@@ -7,8 +7,8 @@ import argparse
 
 def pipeline(
     image: np.ndarray,
-    min_area: float = 10,
-    max_error: float = 50.0,
+    min_area: float = 5,
+    max_error: float = 70.0,
     debug: bool = False,
 ):
     """
